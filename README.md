@@ -46,7 +46,7 @@
 
 ### 网易互娱 (Netease)
 
-- **官网:** [[网易游戏(互娱)校园招聘官网](https://game.campus.163.com/)](https://kurogame.jobs.feishu.cn/campus/)
+- **官网:** [网易游戏(互娱)校园招聘官网](https://game.campus.163.com/)
 - **内推码:** 5juEQo
 
 <p align="left"> <img src="posts/netease.jpg" alt="网易互娱内推" width="300"> </p>
