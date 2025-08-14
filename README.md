@@ -53,6 +53,13 @@
 
 <p align="left"> <img src="posts/netease.jpg" alt="网易互娱内推" width="300"> </p>
 
+### 友塔游戏 (Yotta)
+
+- **官网:** [上海友塔网络科技有限公司](https://www.yotta-hr.com/zh/campus)
+- **内推码:** 请扫码投递
+
+<p align="left"> <img src="posts/yotta.jpg" alt="友塔内推" width="300"> </p>
+
 ## ❓ 常见问题
 
 **Q**: 内推和普通申请有什么区别？
